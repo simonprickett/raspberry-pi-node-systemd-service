@@ -1,0 +1,6 @@
+.DS_Store
+*.log
+*.bak
+*.tmp
+*.swp
+node_modules/
